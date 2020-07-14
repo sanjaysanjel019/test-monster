@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sanjaysanjel019/test-monster/static/css/main.ee93d3c9.chunk.css",
+    "main.js": "/sanjaysanjel019/test-monster/static/js/main.e35104a6.chunk.js",
+    "main.js.map": "/sanjaysanjel019/test-monster/static/js/main.e35104a6.chunk.js.map",
+    "runtime-main.js": "/sanjaysanjel019/test-monster/static/js/runtime-main.893b8c30.js",
+    "runtime-main.js.map": "/sanjaysanjel019/test-monster/static/js/runtime-main.893b8c30.js.map",
+    "static/js/2.be6af004.chunk.js": "/sanjaysanjel019/test-monster/static/js/2.be6af004.chunk.js",
+    "static/js/2.be6af004.chunk.js.map": "/sanjaysanjel019/test-monster/static/js/2.be6af004.chunk.js.map",
+    "index.html": "/sanjaysanjel019/test-monster/index.html",
+    "precache-manifest.0c2d90cea1b81c653a5bfeb3750d6fbb.js": "/sanjaysanjel019/test-monster/precache-manifest.0c2d90cea1b81c653a5bfeb3750d6fbb.js",
+    "service-worker.js": "/sanjaysanjel019/test-monster/service-worker.js",
+    "static/css/main.ee93d3c9.chunk.css.map": "/sanjaysanjel019/test-monster/static/css/main.ee93d3c9.chunk.css.map",
+    "static/js/2.be6af004.chunk.js.LICENSE.txt": "/sanjaysanjel019/test-monster/static/js/2.be6af004.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.893b8c30.js",
+    "static/js/2.be6af004.chunk.js",
+    "static/css/main.ee93d3c9.chunk.css",
+    "static/js/main.e35104a6.chunk.js"
+  ]
+}
